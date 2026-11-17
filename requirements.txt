@@ -1,4 +1,0 @@
-alpaca-py
-pandas>=2.0
-numpy
-pyarrow
