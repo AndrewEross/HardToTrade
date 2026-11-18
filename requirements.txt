@@ -1,0 +1,9 @@
+alpaca-py>=0.30
+pandas>=2.0
+numpy
+pyarrow
+scikit-learn
+torch
+matplotlib
+tqdm
+jupyter
