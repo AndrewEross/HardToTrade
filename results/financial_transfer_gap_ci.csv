@@ -1,0 +1,7 @@
+model_a,model_b,metric,difference_a_minus_b,ci_lower,ci_upper,n_tickers,n_boot
+financial_to_financial_standard,tech_to_financial_standard,accuracy,0.02380952380952378,-0.03492063492063491,0.08095238095238094,15,2000
+financial_to_financial_standard,tech_to_financial_standard,macro_f1,0.0542158666203475,0.014035166195166822,0.09386223953134097,15,2000
+financial_to_financial_standard,tech_to_financial_standard,reward,0.25396825396825395,0.09047619047619047,0.41908730158730134,15,2000
+financial_to_financial_reward,tech_to_financial_reward,accuracy,-0.047619047619047616,-0.1111111111111111,0.02543650793650774,15,2000
+financial_to_financial_reward,tech_to_financial_reward,macro_f1,-0.09353696782663135,-0.13788059608155304,-0.04229267585903165,15,2000
+financial_to_financial_reward,tech_to_financial_reward,reward,0.08253968253968254,-0.07142857142857142,0.2571428571428571,15,2000
